@@ -19,7 +19,7 @@ class ViewController: UIViewController {
 
         
         let webConfiguration = WKWebViewConfiguration()
-        webConfiguration.allowsInlineMediaPlayback = true
+        webConfiguration.allowsInlineMediaPlayback = true . // Enable inline video Playback in webview fixed frame instead of automatically fullscreen
         
    
         let urlString = "http://html.demodemodemo.ga/videojs/"
