@@ -22,3 +22,6 @@ this code is the sample of html website (videojs.html)
 
 * playsinline - it will enable feature to run video in fixed frames of WKWebView instead of goinf automatically fullscreen
 * autoplay - this wil autoplay the video when it is opened in the WKWebView
+
+
+And then Do the Configuration like I did in the example ViewController.swift File in this repo .
