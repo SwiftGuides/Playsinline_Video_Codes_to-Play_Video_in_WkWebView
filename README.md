@@ -4,7 +4,10 @@
 Add This Playsinline code in the html website source to fetch video in iphone's WkWebview fixed frame instead of going automatic full screen in safari brwser video player
 
 
-Example code here , in this code "playsinline" is placed under the video tag to wrok inline feature in  iphones working on ios 11+ 
+Example code here , in this code "playsinline" is placed under the video tag to wrok inline feature in iphones(ios 11+) 
+
+this code is the sample of html website (videojs.html)
+
 ```
 <html>
     <body>
@@ -15,4 +18,7 @@ Example code here , in this code "playsinline" is placed under the video tag to 
                 </video>
         </body>
     </html>
-  
+```
+
+* playsinline - it will enable feature to run video in fixed frames of WKWebView instead of goinf automatically fullscreen
+* autoplay - this wil autoplay the video when it is opened in the WKWebView
